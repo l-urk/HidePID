@@ -1,2 +1,2 @@
 # HidePID
-This C++ program will call an exe without a PID associated, rendering it undetectable by any process monitoring software, including tasklist, taskmanager, and process monitor. Useful for detection evasion.
+Aan advanced C++ utility designed to execute an executable without leaving a trace in process monitoring tools such as tasklist, task manager, and process monitor. By seamlessly launching processes without associating them with a visible Process ID (PID), HidePID provides an effective solution for detection evasion. Elevate your system interaction and enhance security with this discreet and versatile tool.
